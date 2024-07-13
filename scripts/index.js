@@ -71,7 +71,7 @@ class MainMenu {
 ;
 let viewport = document.createElement("div");
 viewport.style.width = "980px";
-viewport.style.height = "1700px";
+viewport.style.height = "1600px";
 viewport.style.margin = "auto";
 document.body.appendChild(viewport);
 new MainMenu();
